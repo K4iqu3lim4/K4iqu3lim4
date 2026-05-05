@@ -66,5 +66,5 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Se você gostou do meu trabalho, considere dar uma estrela em meu repositório  
+🤝 Sempre aberto a colaborações, parcerias e ideias interessantes
