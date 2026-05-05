@@ -1,29 +1,21 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, eu sou o Kaique Lima
 
 🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Estou me dedicando a evoluir como desenvolvedor web, fortalecendo meus conhecimentos em HTML, CSS e JavaScript.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+No momento, meu foco é aprofundar o domínio em JavaScript e avançar para tecnologias como TypeScript e React.
+
+Prezo por escrever código organizado, manter disciplina nos estudos e buscar evolução contínua, com a meta de me desenvolver cada vez mais na carreira profissional.
 
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/oreidosites">
+  <a href="https://instagram.com/k4iqu3.lim4">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
