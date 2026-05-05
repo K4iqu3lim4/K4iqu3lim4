@@ -1,6 +1,6 @@
-# Olá 👋, eu sou o Kaique Lima
+# Olá 👋, eu sou o Kaique
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Desenvolvedor Web Junior | HTML & CSS 
 🇧🇷 Brazil
 
 Estou me dedicando a evoluir como desenvolvedor web, fortalecendo meus conhecimentos em HTML, CSS e JavaScript.
