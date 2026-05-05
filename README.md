@@ -62,8 +62,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Disciplina no processo, evolução no código.
 
 ---
 
