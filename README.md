@@ -23,14 +23,11 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+-   🎯 Objetivo: entrar na área de desenvolvimento
+-   ⚡ Próximo passo: TypeScript e React
+-   🧩 Aprendizagem Constante
+-   📊 Design Responsivo
+-   🎓 Estudante de Análise Desenvolvimento de Sistemas
 
 ---
 
