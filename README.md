@@ -27,7 +27,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 -   ⚡ Próximo passo: TypeScript e React
 -   🧩 Aprendizagem Constante
 -   📊 Design Responsivo
--   🎓 Estudante de Análise Desenvolvimento de Sistemas
+-   🎓 Graduado em Ciência da Computação
 
 ---
 
