@@ -24,7 +24,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 ## 🧠 What I do
 
 -   🎯 Objetivo: entrar na área de desenvolvimento
--   ⚡ Próximo passo: TypeScript e React
+-   ⚡ Próximo passo: React e TypeScript
 -   🧩 Aprendizagem Constante
 -   📊 Design Responsivo
 -   🎓 Graduado em Ciência da Computação
@@ -56,7 +56,10 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ## 📊 GitHub Stats
 
-
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=k4iqu3lim4&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4iqu3lim4&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
