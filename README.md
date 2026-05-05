@@ -1,4 +1,4 @@
-# Hi 👋, eu sou o Kaique Lima
+# Olá 👋, eu sou o Kaique Lima
 
 🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
 🇧🇷 Brazil
@@ -15,7 +15,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 <p align="left">
   <a href="https://instagram.com/k4iqu3.lim4">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@K4IQU3.LIM4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
