@@ -62,7 +62,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ## 🚀 Philosophy
 
-> _"Disciplina no processo, evolução no código._
+> _"Disciplina no processo, evolução no código"._
 
 ---
 
