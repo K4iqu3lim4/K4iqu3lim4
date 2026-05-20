@@ -1,7 +1,6 @@
 # Olá 👋, eu sou o Kaique
 
 🚀 Desenvolvedor Web Junior | HTML & CSS 
-🇧🇷 Brazil
 
 Estou me dedicando a evoluir como desenvolvedor web, fortalecendo meus conhecimentos em HTML, CSS e JavaScript.
 
