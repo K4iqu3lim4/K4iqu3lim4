@@ -12,8 +12,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ## 🌐 Contato
 
-
-<img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white" /> - teste
 
 <p align="left">
   <a href="https://instagram.com/k4iqu3.lim4">
