@@ -50,7 +50,5 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ---
 
----
-
 ⭐ Se você gostou do meu trabalho, considere dar uma estrela no repositório  
 🤝 Sempre aberto a parcerias e ideias interessantes
