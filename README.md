@@ -12,7 +12,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ## 🌐 Contato
 
-🪧 - [Linkedin](https://www.linkedin.com/in/kalimadias/)
+👜 - [Linkedin](https://www.linkedin.com/in/kalimadias/)
 
 📧 - kalimadias@gmail.com
 
