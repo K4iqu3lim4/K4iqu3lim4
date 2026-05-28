@@ -12,11 +12,8 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ## 🌐 Contato
 
-<p align="left">
-  <a href="https://instagram.com/k4iqu3.lim4">
-    <img src="https://img.shields.io/badge/Instagram-@K4IQU3.LIM4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+
+<img src="https://img.shields.io/badge/Instagram-@K4IQU3.LIM4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 
 <p align="left">
   <a href="https://instagram.com/k4iqu3.lim4">
