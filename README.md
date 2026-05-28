@@ -42,11 +42,5 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://streak-stats.demolab.com?user=k4iqu3lim4&theme=tokyonight" />
-
----
-
 ⭐ Se você gostou do meu trabalho, considere dar uma estrela no repositório  
 🤝 Sempre aberto a parcerias e ideias interessantes
