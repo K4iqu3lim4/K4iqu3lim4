@@ -10,7 +10,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Contato
 
 <p align="left">
   <a href="https://instagram.com/k4iqu3.lim4">
