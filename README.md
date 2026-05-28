@@ -2,11 +2,9 @@
 
 🚀 Desenvolvedor Web Junior | HTML & CSS 
 
-Estou me dedicando a evoluir como desenvolvedor web, fortalecendo meus conhecimentos em HTML, CSS e JavaScript.
+Desenvolvedor Web em evolução, com foco em Front-End e construção de interfaces responsivas utilizando HTML, CSS e JavaScript.
 
-No momento, meu foco é aprofundar o domínio em JavaScript e avançar para tecnologias como TypeScript e React.
-
-Prezo por escrever código organizado, manter disciplina nos estudos e buscar evolução contínua, com a meta de me desenvolver cada vez mais na carreira profissional.
+Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs REST, buscando desenvolver aplicações modernas.
 
 ---
 
