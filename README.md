@@ -8,7 +8,7 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
-## 🌐 Contato
+## Contato
 
 👜 - [Linkedin](https://www.linkedin.com/in/kalimadias/)
 
@@ -16,7 +16,7 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
-## 🧠 What I do
+## What I do
 
 -   🎯 Objetivo: entrar na área de desenvolvimento
 -   ⚡ Próximo passo: React e TypeScript
@@ -26,7 +26,7 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Frontend
 
