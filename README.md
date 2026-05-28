@@ -30,7 +30,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias
 
 ### Frontend
 
