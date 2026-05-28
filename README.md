@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Kaique
+# Olá, eu sou o Kaique
 
 🚀 Desenvolvedor Web Junior | HTML & CSS 
 
