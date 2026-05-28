@@ -40,6 +40,7 @@ Prezo por escrever código organizado, manter disciplina nos estudos e buscar ev
 ### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ---
 
