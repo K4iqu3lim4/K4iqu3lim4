@@ -32,6 +32,6 @@ HTML • CSS • Responsivo
 
 ## Contato
 
-👜 - [Linkedin](https://www.linkedin.com/in/kalimadias/)
-
 📧 - kalimadias@gmail.com
+
+👜 - [Linkedin](https://www.linkedin.com/in/kalimadias/)
