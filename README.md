@@ -16,16 +16,6 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
-## What I do
-
--   🎯 Objetivo: entrar na área de desenvolvimento
--   ⚡ Próximo passo: React e TypeScript
--   🧩 Aprendizagem Constante
--   📊 Design Responsivo
--   🎓 Graduado em Ciência da Computação
-
----
-
 ## Tecnologias
 
 ### Frontend
