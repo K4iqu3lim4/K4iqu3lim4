@@ -1,7 +1,5 @@
 # Olá, eu sou o Kaique
 
-🚀 Desenvolvedor Web Junior | HTML & CSS 
-
 Desenvolvedor Web em evolução, com foco em Front-End e construção de interfaces responsivas utilizando HTML, CSS e JavaScript.
 
 Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs REST, buscando desenvolver aplicações modernas.
