@@ -20,9 +20,9 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
-## 🔹Projeto em destaque
+## Projeto em destaque
 
-### Página de Login
+### 🔹Página de Login
 HTML • CSS • Responsivo
 
 🌐 [Abrir projeto](https://tela-de-login-2t0k02jkz-k4iqu3-lima-s-projects.vercel.app)
