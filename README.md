@@ -26,11 +26,10 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 Interface moderna de login desenvolvida para praticar responsividade e estilização front-end.
 
 Prévia:
-
 <img width="1894" height="907" alt="image" src="https://github.com/user-attachments/assets/0b9ccab8-ac64-4c8e-8e56-3fcecbcfb697" />
 
-🔗 [Abrir projeto](https://tela-de-login-2t0k02jkz-k4iqu3-lima-s-projects.vercel.app)
 
+🔗 [Abrir projeto](https://tela-de-login-2t0k02jkz-k4iqu3-lima-s-projects.vercel.app)
 🔗 [Repositório do projeto](https://github.com/K4iqu3lim4/Tela-de-login)
 
 
