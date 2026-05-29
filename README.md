@@ -20,7 +20,7 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
-## Projeto em destaque
+## 🔹Projeto em destaque
 
 ### Página de Login
 HTML • CSS • Responsivo
