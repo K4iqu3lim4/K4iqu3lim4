@@ -30,7 +30,5 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
----
-
 ⭐ Se você gostou do meu trabalho, considere dar uma estrela no repositório  
 🤝 Sempre aberto a parcerias e ideias interessantes
