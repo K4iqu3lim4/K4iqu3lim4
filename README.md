@@ -25,7 +25,7 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 ### Página de Login
 HTML • CSS • Responsivo
 
-🌐 [Abrir projeto](https://tela-de-login-2t0k02jkz-k4iqu3-lima-s-projects.vercel.app)
+🌐 [Abrir projeto](https://warm-bubblegum-d44baf.netlify.app/)
 📂 [Repositório](https://github.com/K4iqu3lim4/Tela-de-login)
 
 ---
