@@ -35,8 +35,3 @@ HTML • CSS • Responsivo
 👜 - [Linkedin](https://www.linkedin.com/in/kalimadias/)
 
 📧 - kalimadias@gmail.com
-
----
-
-⭐ Se você gostou do meu trabalho, considere dar uma estrela no repositório  
-🤝 Sempre aberto a parcerias e ideias interessantes
