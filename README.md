@@ -25,7 +25,7 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 ### Página de Login
 HTML • CSS • Responsivo
 
-🌐 [Abrir projeto](https://warm-bubblegum-d44baf.netlify.app/)
+🌐 [Abrir projeto](https://login-lim4.netlify.app/)
 📂 [Repositório](https://github.com/K4iqu3lim4/Tela-de-login)
 
 ---
