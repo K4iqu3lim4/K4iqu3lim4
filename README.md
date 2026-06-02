@@ -2,7 +2,7 @@
 
 Desenvolvedor Web em evolução, com foco em Front-End e construção de interfaces responsivas utilizando HTML, CSS e JavaScript.
 
-Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs REST, buscando desenvolver aplicações modernas.
+Atualmente aprofundando conhecimentos em JavaScript, buscando desenvolver aplicações modernas.
 
 ---
 
