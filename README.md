@@ -20,7 +20,13 @@ Atualmente aprofundando conhecimentos em React, TypeScript e consumo de APIs RES
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
+
+### The Burger
+HTML • CSS • JavaScript
+
+🌐 [Abir projeto](https://theburgerlim4.netlify.app/)
+📂 [Repositório](https://github.com/K4iqu3lim4/The-Burger)
 
 ### Página de Login
 HTML • CSS • Responsivo
